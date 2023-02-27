@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Max</h1>
+<h1 align="center">Hi 👋, I'm Max Keller</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
+
+- 👨‍💻 All of my projects are available at [https://greenm4x.github.io/hub/](https://greenm4x.github.io/hub/)
+
+- 📫 How to reach me **greenm4x@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
