@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Max, FrontEnd and Game developer 👨‍💻 </div>  
+### <div align="center">I'm Max, a pasioned Front-End and Game developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [HexGuess] (https://github.com/GreenM4x/HexGuess)  
