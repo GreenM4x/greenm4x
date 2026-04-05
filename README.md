@@ -51,31 +51,3 @@
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenm4x&hide_border=true&layout=compact" align="right" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api?username=greenm4x&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/greenm4x" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
